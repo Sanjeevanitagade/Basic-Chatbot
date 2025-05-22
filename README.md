@@ -1,4 +1,6 @@
 Understanding the Code
+
+
 Imports:
 random: To pick random responses and make the bot less predictable.
 time: To add delays (time.sleep()) for a more natural feel.
